@@ -1,6 +1,6 @@
 # POC - OpenTelemetry - DotNet
 
-Proof of concept about how to 
+Proof of concept about how to use OpenTelemetry in dotnet core projects
 
 ## Requirements
 
